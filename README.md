@@ -13,9 +13,9 @@ If you play Elder Scrolls Online on Linux, check out [ESO Linux Addon Manager](h
 - C
 - C#
 - Python
-- JavaScript (To some extent)
+- JavaScript
 
 ### Languages I want to learn more about:
 - C++
 - C
-- Assembly (Maybe someday)
+- Assembly
