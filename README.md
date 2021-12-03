@@ -3,7 +3,9 @@
 # Hi, I'm Akseli! 
 I'm just a gamedev and Linux/FOSS nerd. My dayjob title is stability engineer.
 
-I like to contribute to open source projects, whether it's documentation, bug reports, feature requests or code!
+I like to contribute to open source projects, whether it's bug reports or code!
+
+I'm always looking for projects to contribute in, so if you need help in something, feel free to ask. Maybe I can have a crack at it.
 
 ## Notable projects:
 
