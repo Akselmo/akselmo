@@ -3,6 +3,8 @@
 # Hi, I'm Akseli! 
 I'm just a gamedev and Linux/FOSS nerd. My dayjob title is stability engineer.
 
+I like to contribute to open source projects, whether it's documentation, bug reports, feature requests or code!
+
 ## Notable projects:
 
 I'm currently working on [Artificial-Rage](https://github.com/Akselmo/Artificial-Rage)!
