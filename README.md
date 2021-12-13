@@ -1,4 +1,5 @@
 [![aksdev-blog](https://img.shields.io/badge/blog-akselmo.dev-blue?style=flat-square)](https://akselmo.dev)
+[![mastodon](https://img.shields.io/mastodon/follow/106864208846697693?color=%233088D4&domain=https%3A%2F%2Fmastodon.technology&logo=mastodon&style=flat-square)](https://mastodon.technology/@huntra)
 [![itchio](https://img.shields.io/badge/itch.io-akselmo-%23FA5C5C?style=flat-square&logo=itch.io)](https://akselmo.itch.io/)
 [![ko-fi](https://img.shields.io/badge/ko--fi-donate-%23FF5E5B?style=flat-square&logo=ko-fi)](https://ko-fi.com/L4L57FOPF)
 
