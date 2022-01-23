@@ -5,7 +5,7 @@
 [![discord](https://img.shields.io/discord/475097536160595979?color=%235865F2&label=aks_dev%20discord&logo=discord&style=flat-square&logoColor=white)](https://discord.gg/PZkYZRx)
 
 
-<img src="https://raw.githubusercontent.com/Akselmo/akselmo.github.io/master/assets/images/oc/HuntraLinux.png" alt="My character Huntra made by Saikkunen" width="35%" align="right"/>
+<img src="https://www.akselmo.dev/assets/images/oc/HuntraLinux.png" alt="My character Huntra made by Saikkunen" width="35%" align="right"/>
 
 # Hi, I'm Akseli! 
 I'm just a gamedev and Linux/FOSS nerd. My dayjob title is stability engineer.
