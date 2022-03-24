@@ -25,6 +25,7 @@ If you play Elder Scrolls Online on Linux, check out [ESO Linux Addon Manager](h
 - C
 - C#
 - Python
+- Java
 
 ### Languages I want to learn more about:
 - C++
