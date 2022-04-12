@@ -36,3 +36,6 @@ I'm always looking for projects to contribute in, so if you need help in somethi
 - C++
 - C
 - Assembly
+
+#### My clang-format file
+Just linked it here for ease of access :P https://gist.github.com/Akselmo/dab6733075492f07bb0a064b3ccc3a0a
