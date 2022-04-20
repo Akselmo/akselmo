@@ -28,6 +28,7 @@ I'm always looking for projects to contribute in, so if you need help in somethi
 
 ### Languages I enjoy using:
 - C
+- C++
 - C#
 - Python
 - Java
