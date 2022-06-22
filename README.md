@@ -10,18 +10,21 @@
 <img src="https://www.akselmo.dev/assets/images/oc/HuntraLinux.png" alt="My character Huntra made by Saikkunen" width="35%" align="right"/>
 
 # Hi, I'm Akseli! 
+
 I'm just a gamedev and Linux/FOSS nerd. My dayjob title is stability engineer.
 
 I like to contribute to open source projects, whether it's bug reports or code!
 
 I'm always looking for projects to contribute in, so if you need help in something, feel free to ask. Maybe I can have a crack at it.
 
+I do most of my work on Codeberg: https://codeberg.org/akselmo
+
 
 ## Notable projects:
 
-- [Artificial-Rage](https://github.com/Akselmo/Artificial-Rage)
+- [Artificial-Rage](https://codeberg.org/akselmo/artificial-rage)
   - Simple FPS game I'm making with C, using Raylib library. Work in progress!
-- [ESO Linux Addon Manager](https://github.com/Akselmo/ESOLinuxAddonManager)
+- [ESO Linux Addon Manager](https://codeberg.org/akselmo/ESOLinuxAddonManager)
   - Addon "manager" for Elder Scrolls Online. Currently just downloads addons from list of URL's.
   - Current iteration made with Python and GTK.
   - I'm rewriting the app in C++ and using Qt as a learning process. (Might take a while...)
