@@ -19,9 +19,9 @@ I'm always looking for projects to contribute in, so if you need help in somethi
 
 ## Notable projects:
 
-- [Artificial-Rage](https://github.com/Akselmo/Artificial-Rage)
+- [Artificial-Rage](https://codeberg.org/akselmo/Artificial-Rage)
   - Simple FPS game I'm making with C, using Raylib library. Work in progress!
-- [ESO Linux Addon Manager](https://github.com/Akselmo/ESOLinuxAddonManager)
+- [ESO Linux Addon Manager](https://codeberg.org/akselmo/ESOLinuxAddonManager)
   - Addon "manager" for Elder Scrolls Online. Currently just downloads addons from list of URL's.
   - Current iteration made with Python and GTK.
   - I'm rewriting the app in C++ and using Qt as a learning process. (Might take a while...)
