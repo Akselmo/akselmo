@@ -20,6 +20,7 @@ I'm always looking for projects to contribute in, so if you need help in somethi
 I do most of my work on Codeberg: https://codeberg.org/akselmo
 
 
+
 ## Notable projects:
 
 - [Artificial-Rage](https://codeberg.org/akselmo/artificial-rage)
@@ -29,6 +30,7 @@ I do most of my work on Codeberg: https://codeberg.org/akselmo
   - Current iteration made with Python and GTK.
   - I'm rewriting the app in C++ and using Qt as a learning process. (Might take a while...)
 
+**You will find releases of these projects on above links. Github repositories are just mirrors.**
 
 ### Languages I enjoy using:
 - C
