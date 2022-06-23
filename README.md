@@ -6,7 +6,9 @@
 [![discord](https://img.shields.io/discord/475097536160595979?color=%235865F2&label=aks_dev%20discord&logo=discord&style=flat-square&logoColor=white)](https://discord.gg/PZkYZRx)
 [![Matrix](https://img.shields.io/matrix/aksdev-space:matrix.akselmo.dev?color=0dbd8b&label=aks_dev%20matrix&logo=matrix&logoColor=ffffff&server_fqdn=matrix.org&style=flat-square)](https://matrix.to/#/#aksdev-space:matrix.akselmo.dev)
 
+# I've moved to [Codeberg](https://codeberg.org/akselmo/).
 
+Old intro below. You can find all releases on my Codeberg repos.
 <img src="https://www.akselmo.dev/assets/images/oc/HuntraLinux.png" alt="My character Huntra made by Saikkunen" width="35%" align="right"/>
 
 # Hi, I'm Akseli! 
