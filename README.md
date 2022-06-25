@@ -25,6 +25,10 @@ I'm always looking for projects to contribute in, so if you need help in somethi
 **I do my future work on Codeberg: https://codeberg.org/akselmo**. This is because I do not really like how Github used GPL code to train the Copilot,
 without any attribution to the original writers of the code.
 
+I am however open to contributing on projects in here, of course. But any of my own future projects will not be hosted, nor mirrored, on Github.
+
+*Be the change you wanna see!*
+
 ## Notable projects:
 
 - [Artificial-Rage](https://codeberg.org/akselmo/artificial-rage)
