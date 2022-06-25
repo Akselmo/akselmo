@@ -9,9 +9,12 @@
 # I've moved to [Codeberg](https://codeberg.org/akselmo/).
 
 Old intro below. You can find all releases on my Codeberg repos.
-<img src="https://www.akselmo.dev/assets/images/oc/HuntraLinux.png" alt="My character Huntra made by Saikkunen" width="35%" align="right"/>
+
+I will also not make any more new repositories on Github.
 
 # Hi, I'm Akseli! 
+
+<img src="https://www.akselmo.dev/assets/images/oc/HuntraLinux.png" alt="My character Huntra made by Saikkunen" width="35%" align="right"/>
 
 I'm just a gamedev and Linux/FOSS nerd. My dayjob title is stability engineer.
 
@@ -19,9 +22,8 @@ I like to contribute to open source projects, whether it's bug reports or code!
 
 I'm always looking for projects to contribute in, so if you need help in something, feel free to ask. Maybe I can have a crack at it.
 
-I do most of my work on Codeberg: https://codeberg.org/akselmo
-
-
+**I do my future work on Codeberg: https://codeberg.org/akselmo**. This is because I do not really like how Github used GPL code to train the Copilot,
+without any attribution to the original writers of the code.
 
 ## Notable projects:
 
