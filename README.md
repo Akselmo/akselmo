@@ -12,6 +12,8 @@ Old intro below. You can find all releases on my Codeberg repos.
 
 I will also not make any more new repositories on Github.
 
+You can read more here: https://sfconservancy.org/GiveUpGitHub/
+
 # Hi, I'm Akseli! 
 
 <img src="https://www.akselmo.dev/assets/images/oc/HuntraLinux.png" alt="My character Huntra made by Saikkunen" width="35%" align="right"/>
