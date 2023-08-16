@@ -5,6 +5,8 @@ I'm just a gamedev, KDE contributor and Linux/FOSS nerd. My dayjob title is test
 
 I like to contribute to open source projects, whether it's bug reports or code!
 
+Check out my blog as well! :) [https://akselmo.dev](https://akselmo.dev)
+
 ## Notable projects:
 
 - [Artificial-Rage](https://codeberg.org/akselmo/Artificial-Rage)
