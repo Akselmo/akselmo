@@ -5,8 +5,6 @@ I'm just a gamedev, KDE contributor and Linux/FOSS nerd. My dayjob title is test
 
 I like to contribute to open source projects, whether it's bug reports or code!
 
-Check out my blog as well! :) [https://akselmo.dev](https://akselmo.dev)
-
 ## Notable projects:
 
 - [Artificial-Rage](https://codeberg.org/akselmo/Artificial-Rage)
@@ -15,13 +13,10 @@ Check out my blog as well! :) [https://akselmo.dev](https://akselmo.dev)
   - Addon "manager" for Elder Scrolls Online. Currently just downloads addons from list of URL's.
   - Current iteration made with Python and GTK.
 
-### Languages I enjoy using:
-- C
-- C++
-- C#
-- Python
+## Links to my things
 
-### Languages I want to learn more about:
-- Hare
-- Zig
-- Odin
+- https://fedi.akselmo.dev/aks
+- https://akselmo.itch.io/
+- https://ko-fi.com/akselmo
+- https://liberapay.com/akselmo/
+- https://matrix.to/#/#aksdev-space:matrix.akselmo.dev
