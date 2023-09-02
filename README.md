@@ -18,8 +18,6 @@ I like to contribute to open source projects, whether it's bug reports or code!
 
 ## Links to my things
 
-- https://fedi.akselmo.dev/aks
 - https://akselmo.itch.io/
 - https://ko-fi.com/akselmo
 - https://liberapay.com/akselmo/
-- https://matrix.to/#/#aksdev-space:matrix.akselmo.dev
