@@ -12,6 +12,9 @@ I like to contribute to open source projects, whether it's bug reports or code!
 - [ESO Linux Addon Manager](https://codeberg.org/akselmo/ESOLinuxAddonManager)
   - Addon "manager" for Elder Scrolls Online. Currently just downloads addons from list of URL's.
   - Current iteration made with Python and GTK.
+- [Revontuli](https://codeberg.org/akselmo/Revontuli)
+  - A color scheme that is shared between multiple editors, tools, etc..
+  - Also for KDE Plasma desktop!
 
 ## Links to my things
 
