@@ -1,7 +1,7 @@
 <img src="https://www.akselmo.dev/assets/images/oc/HuntraLinux.png" alt="My character Huntra made by Saikkunen" width="35%" align="right"/>
 
 # Hi, I'm Akseli! 
-I'm just a gamedev, KDE contributor and Linux/FOSS nerd. My dayjob title is test and design engineer.
+I'm just a gamedev, KDE contributor and Linux/FOSS nerd. My dayjob title software developer and I work on KDE stuff!
 
 I like to contribute to open source projects, whether it's bug reports or code!
 
