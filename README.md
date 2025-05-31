@@ -1,9 +1,9 @@
-<img src="https://www.akselmo.dev/assets/images/oc/HuntraLinux.png" alt="My character Huntra made by Saikkunen" width="35%" align="right"/>
-
 # Hi, I'm Akseli! 
 During the day I work on KDE development, and as my hobby I make games and other funky projects.
 
 I like to contribute to open source projects, whether it's bug reports or code!
+
+All my projects are nowadays in Codeberg: https://codeberg.org/akselmo/
 
 ## Notable projects:
 
