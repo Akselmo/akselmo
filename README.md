@@ -1,1 +1,1 @@
-# All my projects are nowadays in Codeberg: https://codeberg.org/akselmo/
+# All my projects are nowadays in sourcehut: https://sr.ht/~akselmo/
